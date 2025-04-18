@@ -14,6 +14,6 @@ Attach the output waveform
 ```
 # Results
 ```
-Attac the output waveform
+Attach the output waveform
 ```
 # Hardware experiment output waveform.
