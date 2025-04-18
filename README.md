@@ -1,8 +1,6 @@
 # FSK
 # Aim
-```
-Write the objective of the experiment.
-```
+Write a Python program for the modulation and demodulation of FSK.
 # Tools required
 # Program
 ```
